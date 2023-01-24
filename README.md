@@ -10,4 +10,4 @@ The below images is some layout of ReactnativeFlatList.
 
 
 # Created By
-ReactnativeNavigation Created By Bedson Gultom.
+ReactnativeFlatList Created By Bedson Gultom.
