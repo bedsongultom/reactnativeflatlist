@@ -1,5 +1,5 @@
 # Reactnative Flatlist
-This is a sample of react-search with class based component
+This is a sample of reactnative flatlist with class based component
 
 # Screenshoot
 The below images is some layout of ReactnativeFlatList.
